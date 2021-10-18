@@ -3,7 +3,7 @@
 
 Skills: Java | Hibernate | Maven | Spring MVC | Spring JPA | Spring Security | Spring Boot | Spring AOP | Thymleaf | RESTful | HTML5 | CSS3 
 
-- 🌱 I’m currently learning Docker, Microservice 
+- 🌱 I’m currently learning kotlin. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mervenurgulbagci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mervenurgulbagci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mervenurgulbgci)  
