@@ -5,7 +5,7 @@ Skills: Swift | UIKit | Java | Hibernate | Maven | Spring MVC | Spring JPA | Spr
 
 - 🌱 I’m currently learning **Swift, UIKit**
 
-- 💬 Ask me about **UIKIT, Swift, Java.**
+- 💬 Ask me about **UIKit, Swift, Java.**
 
 - 📫 How to reach me **mervenurgulbagci@gmail.com**
 
